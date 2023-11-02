@@ -37,7 +37,7 @@ The complete data set for MAO-A was obtained from ChemMBL can be found here:
 ## 3. Actions made
 
 	1. Butina Clustering
-	2. K-means clustering and Siloute score calculation
+	2. K-means clustering and Silhouette score calculation
 
 
 
